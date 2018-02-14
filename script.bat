@@ -1,1 +1,1 @@
-dir > output_windows.log
+dir > newfile.log
