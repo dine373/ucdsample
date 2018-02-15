@@ -1,1 +1,1 @@
-dir > newfile.log
+dir > outputnew.log
