@@ -1,1 +1,1 @@
-dir > outputnew.log
+dir > version2.log
